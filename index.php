@@ -21,7 +21,7 @@ if(!isset($_SESSION['email'])) {
 <body>
 
     <div class="container w-75 my-4">
-        <h1>Aplikasi Perpustakaan</h1>
+        <h1>Aplikasi Perpustakaan versi 10</h1>
 
         <a class="btn btn-outline-primary" href="./buku.php">Lihat Daftar Buku</a>
         <a class="btn btn-outline-success" href="./staff.php">Lihat Daftar Staff</a><br>
